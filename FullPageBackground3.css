@@ -1,0 +1,22 @@
+html{
+    background-image:url(WinterPine100.jpg);
+     }
+
+body{
+    height:auto;
+}
+
+nav{
+    position:relative;
+    top:0;
+    font-size:2em;
+    margin:1em;
+}
+
+footer {
+    position:absolute;
+    bottom:0;
+    right: 1em;
+    font-size: 1em;
+    margin: 0.5em;
+}

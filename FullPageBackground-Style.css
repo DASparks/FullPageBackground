@@ -1,0 +1,29 @@
+html, body, nav, header, div, section, footer, h1, h2, h3, h4, h5, h6, p {
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    width:100%;
+    background-color:lightgrey;
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-attachment:fixed;
+    background-size:cover;
+    }
+
+nav{
+    position:absolute;
+    bottom:-1.5em;
+    font-family:calibri, sans-serif;
+    color:white;
+    text-align:left;
+}
+
+footer{
+    position:relative;
+    text-align:right;
+    font-family:calibri, sans-serif;
+    color:white;
+}
+
